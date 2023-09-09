@@ -1,25 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Vosh Arena",
+		"replaces": "Colosseum",
+		"uniqueTo": "Osimer",
+		"maintenance": 1,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Cover I] promotion", "Destroyed when the city is captured"],
 	}
 ]
