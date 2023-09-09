@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Osimer",
+		"leaderName": "Torug gro-igron",
+		"adjective": ["osimer"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The Chosen People of Malacath",
+		"startIntroPart2": "Clan Chief Torug has brought together the Orc Clans of the Wrothgarian Mountians. Together they build the first Orsinium, A monument to The power of the Osimer",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We do not attack without reason.",
+		"attacked": "Do you wish to play the Blood Price?",
+		"defeated": "An Orc goes out with Honor.",
+		"introduction": "In our land, all people have their place. Hopefully you shall learn yours.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,15 +24,20 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "This was not the noble death Malacath promised me",
+		"tradeRequest": "We do not steal, we trade.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [73,24,7],
+		"innerColor": [44,47,56],
+		"unique": "Thriving Strongholds",
+		"uniques": [
+			"[+1 food] from every [fort]",
+			"[+2 food] from evey [citadel]",
+			"[+1 food] from every [fort] on [Fresh Water] <after discovering [Chivalry]>",
+			"[+1 food] from evey [citadel] on [Fresh Water] <after discovering [Chivalry]>",
+			"[+1 food] from every [fort] on [non-fresh Water] <after discovering [Military Science]>",
+			"[+1 food] from evey [citadel] on [non-fresh Water] <after discovering [Military Science]>"
+		]
+		"cities": ["Orsinium","Clan Igrun","Clan Morkul","Clan Shatul","Clan Tumnosh","Dra,bul","Jathsogur","Dushnikh Yal","Largashbur","Mor Khazgur","Narzulbur","Stonetooth Fortress","Malak's Maw","Bloodtoil Valley","Cradlecrush"]
 	}
 ]
